@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Merchant</string>
+    <string-array name="array_name">
+        <item>Non-Seamless</item>
+        <item>Seamless</item>
+
+    </string-array>
+</resources>
